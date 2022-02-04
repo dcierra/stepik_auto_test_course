@@ -1,1 +1,1 @@
-# stepik_auto_test_course
+# stepik_tasks
